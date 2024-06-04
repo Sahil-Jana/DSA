@@ -1,2 +1,3 @@
 # Doubts
-Q2
+Q2  O(mxn) </br>
+Q3 O(n logn)
